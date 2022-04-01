@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hello World 👋
 
-### Hello World
 
 - 🌱 I’m currently learning Artificial Intelligence ( Data Science, NLP, Reinforcement Learning, Computer Vision) , BackEnd
 - 👯 I’m looking to collaborate on Open Source Project
